@@ -11,4 +11,4 @@ add-channel: build
 clean:
 	cd .. && rm -f musnix.tar.gz
 
-.PHONY: build clean update
+.PHONY: build clean update add-channel
